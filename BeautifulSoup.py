@@ -16,6 +16,6 @@ try:
 except HTTPError as e:
     print(e)
     # devolve null, executa um break ou algum outro "plano B"
-#else:
+else:
     # o programa continua. Nota: se você retornar ou executar um break no
     # catch da exceção, não será necessária a instrução "else"

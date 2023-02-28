@@ -8,7 +8,7 @@
 - Introdução ao BeautifulSoup
 - Instalando o BeautifulSoup
 - Executando o BeautifulSoup
-- Conectando-se de forma confiável e tratando exceções
+- Conectando-se de forma confiável e tratando exceções.
 
 2. Capitulo 2 - Parsing de HTML avançado
 

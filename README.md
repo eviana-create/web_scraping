@@ -2,9 +2,8 @@
 
 ## Parte 1
 
-1. Capitulo 1 
+1. Capitulo 1 - Meu primeiro web scraper
 
-- Meu primeiro web scraper
 - conectando
 - Introdução ao BeautifulSoup
 - Instalando o BeautifulSoup
